@@ -11,7 +11,7 @@
 
 
 ## My Toolkit
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r,git,github,atom,vscode,idea,androidstudio)](https://skillicons.dev)
 
 
 
