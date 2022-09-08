@@ -3,7 +3,7 @@
 
 - 💼 Working on Web Development and App Development
 
-- 📈 Currently learning Javascript, MySQL and libraries
+- 📈 Currently learning Javascript and libraries
 
 - 👯 I am Actively seeking internship opportunities
 
