@@ -5,7 +5,7 @@
 
 - 📈 Currently learning Javascript, MySQL and libraries
 
-- 👯 Actively seeking internship opportunities
+- 👯 I am Actively seeking internship opportunities
 
 - 💬 Reach me: [http://individual.utoronto.ca/abdulmannan/](http://individual.utoronto.ca/abdulmannan/) or by email: abdulmannancomp@gmail.com
 
