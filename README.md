@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi There 👋, I am Abdul
+![Abdul Mannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyerfire9&show_icons=true&theme=radical)
 
-<!--
-**dyerfire9/dyerfire9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Freelance Web Developer
 
-Here are some ideas to get you started:
+- 📈 Currently learning Javascript, MySQL and libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Actively seeking internship opportunities
+
+- 💬 Reach me: [http://individual.utoronto.ca/abdulmannan/](http://individual.utoronto.ca/abdulmannan/) or by email: abdulmannancomp@gmail.com
+
+
+## My Tools
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r,postgres)](https://skillicons.dev)
+
+
+
