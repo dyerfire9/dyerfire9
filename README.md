@@ -10,7 +10,7 @@
 - 💬 Reach me: [http://individual.utoronto.ca/abdulmannan/](http://individual.utoronto.ca/abdulmannan/) or by email: abdulmannancomp@gmail.com
 
 
-## My Tools
+## My Toolkit
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r,postgres)](https://skillicons.dev)
 
 
