@@ -1,7 +1,7 @@
-### Hi There 👋, I am Abdul
+### Hi There 👋, Abdul Here!
 ![Abdul Mannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyerfire9&show_icons=true&theme=radical)
 
-- 💼 Working as a Web Developer
+- 💼 Working on Web Development and App Development
 
 - 📈 Currently learning Javascript, MySQL and libraries
 
@@ -11,7 +11,7 @@
 
 
 ## My Toolkit
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,r)](https://skillicons.dev)
 
 
 
