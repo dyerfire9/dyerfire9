@@ -7,7 +7,7 @@
 
 - 👯 I am Actively seeking internship opportunities
 
-- 💬 Reach me: [http://individual.utoronto.ca/abdulmannan/](http://individual.utoronto.ca/abdulmannan/) or by email: abdulmannancomp@gmail.com
+- 💬 Reach me: [https://dyerfire9.github.io/portfolio-site/](https://dyerfire9.github.io/portfolio-site/) or by email: abdulmannancomp@gmail.com
 
 
 ## My Toolkit
@@ -15,3 +15,4 @@
 
 
 
+https://dyerfire9.github.io/portfolio-site/
